@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="etiqueta_peso">Peso:</string>
+    <string name="etiqueta_estatura">Estatura:</string>
+    <string name="texto_boton_calcular">Calcular</string>
+    <string name="texto_boton_limpiar">Limpiar</string>
+    <string name="etiqueta_imc">El índice de masa corporal es: </string>
+    <string name="etiqueta_nutricion">El estado nutricional es: </string>
+</resources>
